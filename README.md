@@ -67,13 +67,13 @@ For detailed API documentation, you can refer to the Postman documentation [here
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/book-author-management.git
+   git clone https://github.com/rupal-draft/Springboot-Data-JPA-and-Hibernate.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd book-author-management
+   cd Springboot-Data-JPA-and-Hibernate
    ```
 
 3. Build the application using Maven:
